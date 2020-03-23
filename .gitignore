@@ -1,0 +1,4 @@
+# ignore these
+config.sh
+public/
+nohup.out

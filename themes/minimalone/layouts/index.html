@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+{{ partial "header.html" . }}
+
+<div class="article-title">
+    <h1> {{ .Title }} </h1>
+</div>
+
+<div class="article-meta">
+    by <a href="{{ "about" | absURL }}">Aizan</a> 
+    // <a href="{{ "disclaimer" | absURL }}" class="disclaimer">DISCLAIMER</a>
+    {{ if isset .Params "last" }}
+        // Last updated: {{ dateFormat "2 Jan 2006" .Params.Last}}
+    {{ end }}
+</div>
+
+<div class="article-body">
+    {{ .Content }}
+</div>
+
+{{ partial "footer.html" . }}

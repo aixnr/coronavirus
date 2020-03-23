@@ -1,0 +1,9 @@
+baseURL = "https://cov.aizan.science"
+languageCode = "en-us"
+title = "Coronavirus"
+theme = "minimalone"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

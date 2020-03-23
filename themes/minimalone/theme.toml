@@ -1,0 +1,8 @@
+name = "MinimalOne"
+license = "MIT"
+description = "A Minimal Theme For Single Page Blog"
+
+[author]
+  name = "Aizan Fahri"
+  homepage = "https://caspershire.net"
+  tag = ["minimal", "knowledgebase"]

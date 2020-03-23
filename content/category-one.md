@@ -1,6 +1,6 @@
 ---
 title: Category I Information
-last: "2020-03-22T23:00:00-04:00"
+last: "2020-03-23T23:00:00-04:00"
 ---
 
 Let's see what we have here.
@@ -68,6 +68,11 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | Mar 2020 | Ou et al. | Primary | [RBD mutations from circulating SARS-CoV-2 strains enhance the structure stability and infectivity of the spike protein][l_52]
 | Mar 2020 | Huang et al. | Primary | [Evidence of the Recombinant Origin and Ongoing Mutations in Severe Acute Respiratory Syndrome 2 (SARS-COV-2)][l_53]
 | Mar 2020 | Lv et al. | Primary | [Cross-reactive antibody response between SARS-CoV-2 and SARS-CoV infections][l_54]
+| Mar 2020 | Cereda et al. | Primary | [The early phase of the COVID-19 outbreak in Lombardy, Italy][l_55]
+| Mar 2020 | Liu et al. | Primary | [Viral dynamics in mild and severe cases of COVID-19][l_56]
+| Mar 2020 | Gordon et al. | Primary | [A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing][l_57]
+| Oct 2011 | Chan et al. | Primary | [The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus][l_58]
+| Mar 2020 | Wu et al. | Primary | [Prolonged presence of SARS-CoV-2 viral RNA in faecal samples][l_59]
 
 [l_1]:https://doi.org/10.1016/j.cell.2020.02.052
 [l_2]:https://doi.org/10.1016/j.ijantimicag.2020.105924
@@ -122,6 +127,11 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [l_52]:https://www.biorxiv.org/content/10.1101/2020.03.15.991844v1
 [l_53]:https://www.biorxiv.org/content/10.1101/2020.03.16.993816v1
 [l_54]:https://www.biorxiv.org/content/10.1101/2020.03.15.993097v1
+[l_55]:https://arxiv.org/abs/2003.09320
+[l_56]:https://doi.org/10.1016/S1473-3099(20)30232-2
+[l_57]:https://doi.org/10.1101/2020.03.22.002386
+[l_58]:https://doi.org/10.1155/2011/734690
+[l_59]:https://doi.org/10.1016/S2468-1253(20)30083-2
 
 ## Newsworthy Stories
 
@@ -173,6 +183,15 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 22 Mar 2020 | NY Times | Rabin | [Lost Sense of Smell May Be Peculiar Clue to Coronavirus Infection][n_45]
 | 19 Mar 2020 | Science | Vogel | [New blood tests for antibodies could show true scale of coronavirus pandemic][n_46]
 | 21 Mar 2020 | STAT | Herper | [New coronavirus test returns results in 45 minutes, but it may be limited to hospitals][n_47]
+| 23 Mar 2020 | Vox | Scott | [The Covid-19 risks for different age groups, explained][n_48]
+| 23 Mar 2020 | STAT | Flier | [Covid-19 is reshaping the world of bioscience publishing][n_49]
+| 22 Mar 2020 | Science | Cohen | [‘I’m going to keep pushing.’ Anthony Fauci tries to make the White House listen to facts of the pandemic][n_50]
+| 3 Mar 2020 | Vox | Belluz | [China’s cases of Covid-19 are finally declining. A WHO expert explains why][n_51]
+| 17 Mar 2020 | NY Times | Zimmer | [Hundreds of Scientists Scramble to Find a Coronavirus Treatment][n_52]
+| 22 Mar 2020 | NY Times | Zimmer | [Scientists Identify 69 Drugs to Test Against the Coronavirus][n_53]
+| 22 Mar 2020 | Science | Kupferschmidt & Cohen | [WHO launches global megatrial of the four most promising coronavirus treatments][n_54]
+| 22 Mar 2020 | NY Times | Rabin | [Lost Sense of Smell May Be Peculiar Clue to Coronavirus Infection][n_55]
+| 21 Mar 2020 | NY Times | Horowitz et al. | [Italy, Pandemic’s New Epicenter, Has Lessons for the World][n_56]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -220,6 +239,15 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_45]:https://www.nytimes.com/2020/03/22/health/coronavirus-symptoms-smell-taste.html
 [n_46]:https://www.sciencemag.org/news/2020/03/new-blood-tests-antibodies-could-show-true-scale-coronavirus-pandemic
 [n_47]:https://www.statnews.com/2020/03/21/coronavirus-test-returns-results-in-45-minutes/
+[n_48]:https://www.vox.com/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age
+[n_49]:https://www.statnews.com/2020/03/23/bioscience-publishing-reshaped-covid-19/
+[n_50]:https://www.sciencemag.org/news/2020/03/i-m-going-keep-pushing-anthony-fauci-tries-make-white-house-listen-facts-pandemic
+[n_51]:https://www.vox.com/2020/3/2/21161067/coronavirus-covid19-china
+[n_52]:https://www.nytimes.com/2020/03/17/science/coronavirus-treatment.html
+[n_53]:https://www.nytimes.com/2020/03/22/science/coronavirus-drugs-chloroquine.html
+[n_54]:https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments
+[n_55]:https://www.nytimes.com/2020/03/22/health/coronavirus-symptoms-smell-taste.html
+[n_56]:https://www.nytimes.com/2020/03/21/world/europe/italy-coronavirus-center-lessons.html
 
 ## Git Repos and Notebooks
 

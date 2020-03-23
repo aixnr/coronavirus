@@ -1,7 +1,7 @@
 ---
 date: "2020-03-21T20:00:00-04:00"
 title: "SARS-CoV-2/COVID-19"
-last: "2020-03-22T00:50:00-04:00"
+last: "2020-03-23T00:50:00-04:00"
 ---
 
 Welcome to this page, a collection of my notes on the coronavirus disease 2019 (**COVID-19**) and severe acute respiratory syndrome coronavirus 2 (**SARS-CoV-2**). This virus was known by its provisional name 2019 novel coronavirus (2019-nCoV). It is also known as the human coronavirus 2019 (hCoV-19), which is the ID that is now being used on GISAID EpiCoV<sup>TM</sup> database.
@@ -89,6 +89,12 @@ A recent study established an *in vivo* animal model for studying the diseased c
 **■ Incubation period**  
 To be added later.
 
+**■ Persistence outside host**  
+To be added later.
+
+**■ Shedding routes**  
+To be added later, see Wu et al. (2020, The Lancet)
+
 [vir_1]:https://doi.org/10.3390/diseases4030026
 [vir_2]:https://doi.org/10.1016/j.cell.2020.02.052
 [vir_3]:https://doi.org/10.1073/pnas.2002589117 
@@ -147,6 +153,11 @@ To be added later.
 **■ Disease phenotype & physiology**  
 To be added later.
 
+**■ Dynamics of viral load in infected individuals**  
+As of writing (23 Mar 2020), I found two observations that do not quite agree to one another. An observation on 76 of infected individuals in China (First Affiliated Hospital of Nanchang University) looked at the viral load from nasopharyngeal swabs ([Liu et al. 2020][path_01], **Figure A**). The authors mention that the mean viral load of severe cases was ~60x higher than that of mild cases. Further, they noted that in severe cases the patients had detectable viral load at or beyond day 10 post-onset.
+
+However, another observation that looked at 5,830 of infected individuals in Lombardy demonstrated that the viral load (nasal swabs) between symptomatic and asymptomatic individuals were not statistically different ([Cereda et al. 2020][path_02], preprint, **Figure 4**).
+
 **■ Typical disease progression**  
 To be added later.
 
@@ -154,7 +165,27 @@ To be added later.
 To be added later.
 
 **■ Treatment**  
-To be added later.
+To be added later, see Gordon et al (2020, bioRxiv), and editorial on Science AAAS.
+
+**■ Collection of guidelines**  
+I received a list of links to clinical guidelines from a friend who is currently working as a physician. These resources would be most useful for people in the frontline.
+
+| Type | Author(s) | Date | Description and link
+| ---- | :-------- | ---- | :-------------------
+| Presentation file | Dr. Suresh Kumar | 19 Mar 2020 | [Clinical Updates on COVID-19 No.1/2020](https://docs.google.com/presentation/d/10cx6fLSggvyIX9SjyiG2I9yNEU99oBFmsB8d_SzJyM8)
+| Training materials | WHO | -- | [Coronavirus disease (COVID-19) training: Online training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/online-training)
+| Handbook | Zhejiang University School of Medicine | -- | [Handbook of COVID-19 Prevention and Treatment](https://covid-19.alibabacloud.com/)
+| Handbook | ISID | Feb 2020 | [Guide to Infection Control in the Healthcare Setting](https://isid.org/guide/pathogens/covid19/)
+| Journal article | Dr. Srinivas Murthy | 11 Mar 2020 | [Care for Critically Ill Patients With COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762996)
+| Presentation file | McKenna | 14 Mar 2020 | [Royal London Hospital COVID Intubation SOP](https://www.dropbox.com/s/t4oqkak40m5s717/COVIDintubationSOP2.2.pptx)
+| Handbook | European Society of Cardiology | -- | [COVID-19 and Cardiology](https://www.escardio.org/Education/COVID-19-and-Cardiology)
+| Handbook | American College of Cardiology | -- | [COVID-19 Clinical Guidance For the Cardiovascular Care Team](https://www.acc.org/~/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/02/S20028-ACC-Clinical-Bulletin-Coronavirus.pdf)
+| Journal article | Matthay et al. | 20 Mar 2020 | [Treatment for severe acute respiratory distress syndrome from COVID-19](https://doi.org/10.1016/S2213-2600(20)30127-2)
+
+If you are qualified and certified medical personnel, please discuss with your advisor. I hope the resources listed here could help.
+
+[path_01]:https://doi.org/10.1016/S1473-3099(20)30232-2
+[path_02]:https://arxiv.org/abs/2003.09320
 
 ## Epidemiology
 
@@ -238,3 +269,5 @@ To be added later.
 * Dr. Florian Krammer on [the possibility of re-infection and why tests after recovery does not mean what you think](https://twitter.com/florian_krammer/status/1233338746789036032).
 * Nvidia GeForce [calling games to support folding@home project](https://twitter.com/NVIDIAGeForce/status/1238496311776653312). More information [on this Reddit thread at r/pcmasterrace](https://www.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/).
 * Dr. Florian Krammer, [with his tweetorial on serology paper his lab recently published on MedRxiv](https://twitter.com/florian_krammer/status/1240432285184405505).
+* Dr. Kristian G. Andersen on [rapid diagnostic tests (RDTs) and serology tests for COVID-19](https://twitter.com/K_G_Andersen/status/1241919845945368577).
+* Dr. Elisabeth Bik on [the study claiming hydroxychloroquine is effective to treat COVID-19](https://twitter.com/MicrobiomDigest/status/1241429544847863808).

@@ -1,13 +1,13 @@
 ---
 title: "Category II Information"
-last: "2020-03-22T23:00:00-04:00"
+last: "2020-03-23T23:00:00-04:00"
 ---
 
 The main page is what I call as the **Category I** content, listing critical information. This page is for specific niche content that would be useful to construct narratives, therefore designated as the **Category II** content. This does not mean that the information here is less useful than **Category I** content.
 
 **Table of contents:**
 
-1. [Collapse of Healthcare Systems](#collapse-of-healthcare-systems)
+1. [Strained Health Response](#strained-health-response)
 2. [Philanthropy in Public Health and Theranostics](#philanthropy-in-public-health-and-theranostics)
 3. [Failure of Public Health Response](#failure-of-public-health-response)
 4. [The Vulnerable Populations](#the-vulnerable-populations)
@@ -16,7 +16,7 @@ The main page is what I call as the **Category I** content, listing critical inf
 7. [Keeping the Economy Running](#keeping-the-economy-running)
 8. [Phases of Pandemic Response](#phases-of-pandemic-response)
 
-## Collapse of Healthcare Systems
+## Strained Health Response
 
 SARS-CoV-2/COVID-19 is putting a lot strain on healthcare systems around the world.
 
@@ -34,6 +34,10 @@ SARS-CoV-2/COVID-19 is putting a lot strain on healthcare systems around the wor
 | 18 Mar 2020 | WashPo | Rowland | [More lifesaving ventilators are available. Hospitals can’t afford them][hcs_10]
 | 17 Mar 2020 | BuzzFeedNews | Adams | [A Top Cancer Hospital Faces Mask Shortages As COVID-19 Cases Show Up In Staff And Patients][hcs_11]
 | 19 Mar 2020 | NY Times | Griggs | [A New York Doctor’s Coronavirus Warning: The Sky Is Falling][hcs_12]
+| 23 Mar 2020 | Malay Mail | Choong | [Free 30-day boarding, breakfast at Tune Hotel for HKL frontliners fighting Covid-19][hcs_13]
+| 22 Mar 2020 | MalaysiaKini | Lin | [Covid-19: Who gets tested and how it works][hcs_14]
+| 19 Mar 2020 | The Startup | Minkina | [The science behind coronavirus testing, and where the U.S. went wrong][hcs_15]
+| 22 Mar 2020 | The Jakarta Post | Fachriansyah et al. | [COVID-19: Inadequate medical supplies take toll on lives of Indonesian medical workers][hcs_16]
 
 [hcs_1]:https://www.nytimes.com/2020/03/05/world/europe/coronavirus-united-kingdom-national-health-service.html
 [hcs_2]:https://www.businessinsider.com/italy-falling-apart-coronavirus-pandemic-doctors-tough-choices-2020-3
@@ -47,8 +51,12 @@ SARS-CoV-2/COVID-19 is putting a lot strain on healthcare systems around the wor
 [hcs_10]:https://www.washingtonpost.com/health/2020/03/18/ventilator-shortage-hospital-icu-coronavirus/
 [hcs_11]:https://www.buzzfeednews.com/article/rosalindadams/a-top-cancer-hospital-faces-mask-shortages-as-covid-19
 [hcs_12]:https://www.nytimes.com/2020/03/19/opinion/coronavirus-doctor-new-york.html
+[hcs_13]:https://www.malaymail.com/news/malaysia/2020/03/23/free-30-day-boarding-breakfast-at-tune-hotel-for-hkl-frontliners-fighting-c/1849400
+[hcs_14]:https://www.malaysiakini.com/news/516168
+[hcs_15]:https://medium.com/swlh/the-science-behind-coronavirus-testing-and-where-the-u-s-went-wrong-7920c3fb5049
+[hcs_16]:https://www.thejakartapost.com/news/2020/03/22/covid-19-inadequate-medical-supplies-take-toll-on-lives-of-indonesian-medical-workers.html
 
-## Philanthropy in Public Health and Theranostics
+## Philanthropy in Public Health
 
 Let's take a note who are spending money to fight the outbreak.
 
@@ -56,11 +64,11 @@ Let's take a note who are spending money to fight the outbreak.
 | ---- | ---- | --------- | :----
 | 16 Mar 2020 | Time | Chen | [Alibaba's Jack Ma Sends Boxes of Coronavirus Test Kits and Masks to U.S.][phil_1]
 | 9 Mar 2020 | Gates Foundation | Suzman | [Announcing the COVID-19 Therapeutics Accelerator ][phil_2]
+| 23 Mar 2020 | Paultan | Tan | [Geely donates medical supplies to Europe, Malaysia for coronavirus fight; we get face masks, testing kits][phil_3]
 
 [phil_1]:https://time.com/5803791/jack-ma-alibaba-coronavirus/
 [phil_2]:https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-therapeutics
-
-* **Theranostics**: therapeutics and diagnostics.
+[phil_3]:https://paultan.org/2020/03/23/geely-donates-medical-supplies-to-europe-malaysia-for-coronavirus-fight-we-get-face-masks-testing-kits/
 
 ## Failure of Public Health Response
 
@@ -74,6 +82,9 @@ We will briefly talk about failure of response due to lack of awareness by gover
 | 17 Mar 2020 | NY Times | Lipton et al. | [Trump Slowly Enlisting More Agencies in ‘Whole of Government’ Response to Virus][prf_4] | US
 | 19 Mar 2020 | WashPo | Blake | [The elected officials who are still downplaying coronavirus][prf_5] | US
 | 19 Mar 2020 | The Atlantic | Hamid | [China Is Avoiding Blame by Trolling the World][prf_6] | China
+| 22 Mar 2020 | WashPo | Costa & Gregg | [Governors and mayors in growing uproar over Trump’s lagging coronavirus response][prf_7] | US
+| 22 Mar 2020 | ProPublica | Ornstein | [Lupus Patients Can’t Get Crucial Medication After President Trump Pushes Unproven Coronavirus Treatment][prf_8] | US
+| 22 Mar 2020 | Reuters | Taylor | [Exclusive: U.S. axed CDC expert job in China months before virus outbreak][prf_9] | US & China
 
 [prf_1]:https://www.theatlantic.com/health/archive/2020/03/coronavirus-pandemic-herd-immunity-uk-boris-johnson/608065/
 [prf_2]:https://www.theguardian.com/commentisfree/2020/mar/18/coronavirus-uk-expert-advice-wrong
@@ -81,6 +92,9 @@ We will briefly talk about failure of response due to lack of awareness by gover
 [prf_4]:https://www.nytimes.com/2020/03/17/us/politics/coronavirus-government-army-corps.html
 [prf_5]:https://www.washingtonpost.com/politics/2020/03/19/elected-officials-who-are-still-downplaying-coronavirus/
 [prf_6]:https://www.theatlantic.com/ideas/archive/2020/03/china-trolling-world-and-avoiding-blame/608332/
+[prf_7]:https://www.washingtonpost.com/politics/governors-and-mayors-in-growing-uproar-over-trumps-lagging-coronavirus-response/2020/03/22/98ac569a-6c49-11ea-a3ec-70d7479d83f0_story.html
+[prf_8]:https://www.propublica.org/article/lupus-patients-cant-get-crucial-medication-after-president-trump-pushes-unproven-coronavirus-treatment
+[prf_9]:https://www.reuters.com/article/us-health-coronavirus-china-cdc-exclusiv/exclusive-u-s-axed-cdc-expert-job-in-china-months-before-virus-outbreak-idUSKBN21910S
 
 ## The Vulnerable Populations
 
@@ -135,6 +149,8 @@ Coronavirus is not the *de facto* force that's responsible for the economic rece
 | 16 Mar 2020 | Reuters | Solsvik | [Norwegian Air to cancel 85% of flights and lay off 90% of staff][econ_4] | Norway
 | 14 Mar 2020 | The Economist | -- | [Rethinking sick leave][econ_5] | US
 | 19 Mar 2020 | The Times | Charter & Zeffman | [Americans to get $3,000 each as Trump unveils $1trn rescue plan][econ_6] | US
+| 23 Mar 2020 | Vox | Yglesias | [The coming unemployment catastrophe, in one chart][econ_7]
+| 18 Mar 2020 | VOX EU | Baldwin et al. | [Mitigating the COVID Economic Crisis: Act Fast and Do Whatever It Takes][econ_8]
 
 [econ_1]:https://www.ft.com/content/be732afe-6526-11ea-a6cd-df28cc3c6a68
 [econ_2]:https://www.theguardian.com/world/2020/mar/16/coronavirus-deals-chinas-economy-a-bigger-blow-than-gfc
@@ -142,6 +158,8 @@ Coronavirus is not the *de facto* force that's responsible for the economic rece
 [econ_4]:https://www.reuters.com/article/us-health-coronavirus-norwegianair/norwegian-air-to-cancel-85-of-flights-and-lay-off-90-of-staff-idUSKBN2132F7
 [econ_5]:https://www.economist.com/business/2020/03/14/rethinking-sick-leave
 [econ_6]:https://www.thetimes.co.uk/article/americans-to-get-3-000-each-as-trump-unveils-1trn-rescue-plan-2ll9j0c5k
+[econ_7]:https://www.vox.com/2020/3/21/21188529/initial-unemployment-claims-goldman-sachs
+[econ_8]:https://voxeu.org/content/mitigating-covid-economic-crisis-act-fast-and-do-whatever-it-takes
 
 ## Phases of Pandemic Response
 

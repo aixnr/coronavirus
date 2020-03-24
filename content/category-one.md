@@ -73,6 +73,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | Mar 2020 | Gordon et al. | Primary | [A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing][l_57]
 | Oct 2011 | Chan et al. | Primary | [The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus][l_58]
 | Mar 2020 | Wu et al. | Primary | [Prolonged presence of SARS-CoV-2 viral RNA in faecal samples][l_59]
+| Mar 2020 | Tao et al. | Primary | [High incidence of asymptomatic SARS-CoV-2 infection, Chongqing, China][l_60]
+| Mar 2020 | Duan et al. | Case | [The feasibility of convalescent plasma therapy in severe COVID-19 patients: a pilot study][l_61]
+| Mar 2020 | Milne et al. | Primary | [The Effectiveness of Social Distancing in Mitigating COVID-19 Spread: a modelling analysis][l_62]
 
 [l_1]:https://doi.org/10.1016/j.cell.2020.02.052
 [l_2]:https://doi.org/10.1016/j.ijantimicag.2020.105924
@@ -132,6 +135,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [l_57]:https://doi.org/10.1101/2020.03.22.002386
 [l_58]:https://doi.org/10.1155/2011/734690
 [l_59]:https://doi.org/10.1016/S2468-1253(20)30083-2
+[l_60]:https://doi.org/10.1101/2020.03.16.20037259
+[l_61]:https://doi.org/10.1101/2020.03.16.20036145
+[l_62]:https://doi.org/10.1101/2020.03.20.20040055
 
 ## Newsworthy Stories
 
@@ -192,6 +198,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 22 Mar 2020 | Science | Kupferschmidt & Cohen | [WHO launches global megatrial of the four most promising coronavirus treatments][n_54]
 | 22 Mar 2020 | NY Times | Rabin | [Lost Sense of Smell May Be Peculiar Clue to Coronavirus Infection][n_55]
 | 21 Mar 2020 | NY Times | Horowitz et al. | [Italy, Pandemic’s New Epicenter, Has Lessons for the World][n_56]
+| 23 Mar 2020 | Scientific American | Sheridan | [Fast, Portable Tests Come Online to Curb Coronavirus Pandemic][n_57]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -248,6 +255,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_54]:https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments
 [n_55]:https://www.nytimes.com/2020/03/22/health/coronavirus-symptoms-smell-taste.html
 [n_56]:https://www.nytimes.com/2020/03/21/world/europe/italy-coronavirus-center-lessons.html
+[n_57]:https://www.scientificamerican.com/article/fast-portable-tests-come-online-to-curb-coronavirus-pandemic/
 
 ## Git Repos and Notebooks
 

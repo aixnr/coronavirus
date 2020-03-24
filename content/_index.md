@@ -54,7 +54,9 @@ Positive-sense, single-stranded RNA. As for SARS-CoV-2, the genomic length is ar
 Coronaviruses are known to infect many species ([Lim et al. 2016][vir_1]), including bats, civets, cattle, and mice. The intermediate host for SARS-CoV (2003) was palm civet ([Wang et al. 2005][vir_6]). 
 
 **■ Zoonotic origin of SARS-CoV-2**  
-Currently, the scientific community suspects that the intermediate host for SARS-CoV-2 was either bat or pangolin ([Xiao et al. 2020][vir_8], preprint).
+Currently, the scientific community suspects that the intermediate host for SARS-CoV-2 was either bat or pangolin ([Xiao et al. 2020][vir_8], preprint). The origin of SARS-CoV-2 was debated by the public, later fueled by conspiracy theorists saying alleging SARS-CoV-2 was of laboratory origin, specifically an escape mutant from the Wuhan BSL-4 laboratory. Scientific evidence does not support this allegation.
+
+In a letter by [Andersen et al. (2020)][vir_21] describing the features of the novel SARS-CoV-2 where the authors reviewed current evidence on the identity of the SARS-CoV-2, they noted that recent studies have looked closely at the virus and the data could not support the claim that the SARS-CoV-2 was lab-made. The authors then provided alternative scenarios where the novel strain mutated and was naturally selected in an animal host before zoonotic transfer or mutated following spillover into human population.
 
 **■ Discovery of coronaviruses**  
 The first coronavirus was discovered in late 1960s; HCoV-**229E** (1966) & HCoV-**OC43** (1967), see [Lim et al. (2016)][vir_1], **Table 1**. Seven CoVs are known to infect human; in addition to two strains above and the new SARS-CoV-2, there are **NL63** (2004) & **HKU1** (2005), only causing mild disease ([Fung & Liu 2019][vir_19]). MERS-CoV and SARS-CoV could result in severe disease.
@@ -65,7 +67,7 @@ Similar to SARS-CoV (2003), SARS-CoV-2 uses angiotensin-converting enzyme 2 (ACE
 ACE2 is known to be expressed on ciliated epithelial cells in the upper and lower airway, as well as in type II pneumocytes ([Lukassen et al. 2020][vir_11], preprint). A study shows that ACE2 is expressed on mucosa of oral cavity ([Xu et al. 2020][vir_12]) and other organs (see **Table 1**).
 
 **■ *In vitro* culture of SARS-CoV-2**  
-Both Hoffmann et al. (2020) and Matsuyama et al. (2020) demonstrated high viral titer in Vero E6 cell line that expresses high level of TMPRSS2 (VeroE6/TMPRSS, ~10-fold higher RNA expression level of TMPRSS2). These studies, along with others in the past with SARS-CoV (2003) also demonstrated the use of Calu-3 cell line to culture the virus ([Tseng et al. 2005][vir_16])
+Both Hoffmann et al. (2020) and Matsuyama et al. (2020) showed that VeroE6/TMPRSS2 cell line (expresses high level of TMPRSS2, ~10-fold higher message level for TMPRSS2) can produce high viral titer of the SARS-CoV-2. These studies, along with others in the past with SARS-CoV (2003) also demonstrated the use of Calu-3 cell line to culture the virus ([Tseng et al. 2005][vir_16])
 
 **■ Viral life cycle**  
 After host receptor recognition, binding, fusion, and uncoating into the host cell, coronavirus translates the replicase gene from the virion genomic RNA. The replicase polyproteins, pp1a and pp1b, are cleaved by internal proteases. Coronavirus viral proteins (including a number of the non-structural proteins) form replication-transcription complex (RTC) in the cytosol, proximal to the perinuclear region. See review by [de Wilde (2017)][vir_14] and [Fehr & Perlman (2015)][vir_15].
@@ -115,6 +117,7 @@ To be added later, see Wu et al. (2020, The Lancet)
 [vir_18]:https://doi.org/10.1073/pnas.0809524106
 [vir_19]:https://doi.org/10.1146/annurev-micro-020518-115759
 [vir_20]:https://doi.org/10.1101/2020.03.21.001628
+[vir_21]:https://doi.org/10.1038/s41591-020-0820-9
 
 ## Immunology
 
@@ -156,7 +159,7 @@ To be added later.
 **■ Dynamics of viral load in infected individuals**  
 As of writing (23 Mar 2020), I found two observations that do not quite agree to one another. An observation on 76 of infected individuals in China (First Affiliated Hospital of Nanchang University) looked at the viral load from nasopharyngeal swabs ([Liu et al. 2020][path_01], **Figure A**). The authors mention that the mean viral load of severe cases was ~60x higher than that of mild cases. Further, they noted that in severe cases the patients had detectable viral load at or beyond day 10 post-onset.
 
-However, another observation that looked at 5,830 of infected individuals in Lombardy demonstrated that the viral load (nasal swabs) between symptomatic and asymptomatic individuals were not statistically different ([Cereda et al. 2020][path_02], preprint, **Figure 4**).
+However, another observation that looked at 5,830 of infected individuals in Lombardy demonstrated that the viral loads (nasal swabs) between symptomatic and asymptomatic individuals were not statistically different ([Cereda et al. 2020][path_02], preprint, **Figure 4**).
 
 **■ Typical disease progression**  
 To be added later.
@@ -166,6 +169,8 @@ To be added later.
 
 **■ Treatment**  
 To be added later, see Gordon et al (2020, bioRxiv), and editorial on Science AAAS.
+
+A study looking at the convalescent plasma therapy has concluded that plasma (from recovered patient, with neutralizing Abs titer of 1:640) was effective to treat severe cases ([Duan et al. 2020][path_03], preprint, n = 10 severe cases). Adverse event after transfusion was reported in one of the patients. Most patients did not have detectable viral load (RNA) around 3 days post-transfusion.
 
 **■ Collection of guidelines**  
 I received a list of links to clinical guidelines from a friend who is currently working as a physician. These resources would be most useful for people in the frontline.
@@ -186,6 +191,7 @@ If you are qualified and certified medical personnel, please discuss with your a
 
 [path_01]:https://doi.org/10.1016/S1473-3099(20)30232-2
 [path_02]:https://arxiv.org/abs/2003.09320
+[path_03]:https://doi.org/10.1101/2020.03.16.20036145
 
 ## Epidemiology
 

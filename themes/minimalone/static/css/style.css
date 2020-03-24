@@ -1,6 +1,7 @@
 :root {
   --color-link: #8e44ad;
   --color-hover: #f9f9f9;
+  --color-bg: #FFFAF0;
 }
 
 @font-face {
@@ -13,7 +14,7 @@
 body {
   font-family: "Source Sans Pro";
   margin: auto;
-  background: #FFFAF0;
+  background: var(--color-bg);
   max-width: 720px;
   line-height: 1.6;
   padding: 4em 1em; }
@@ -37,7 +38,10 @@ body {
   color: #999; }
 
 .article-body h2 {
-  margin-top: 50px; }
+  margin-top: 50px; 
+  position: sticky; 
+  top: 0; 
+  background: var(--color-bg); }
 
 .article-body h2::after {
   content: "";

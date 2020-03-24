@@ -1,7 +1,7 @@
 ---
 date: "2020-03-21T20:00:00-04:00"
 title: "SARS-CoV-2/COVID-19"
-last: "2020-03-23T00:50:00-04:00"
+last: "2020-03-24T11:37:00-04:00"
 ---
 
 Welcome to this page, a collection of my notes on the coronavirus disease 2019 (**COVID-19**) and severe acute respiratory syndrome coronavirus 2 (**SARS-CoV-2**). This virus was known by its provisional name 2019 novel coronavirus (2019-nCoV). It is also known as the human coronavirus 2019 (hCoV-19), which is the ID that is now being used on GISAID EpiCoV<sup>TM</sup> database.

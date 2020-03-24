@@ -51,10 +51,25 @@ body {
 .disclaimer {
   background: red;
   display: inline-block;
-  padding: 0.5px 4px 0.5px 4px;
+  /* padding: 0.5px 4px 0.5px 4px; */
+  padding: 0.1px 4px;
   border-radius: 4px;
   color: var(--color-hover) !important;
   font-weight: 1000; }
+
+.misc {
+  background: var(--color-link);
+  display: inline-block;
+  padding: 0.1px 4px;
+  border-radius: 4px;
+  color: var(--color-hover) !important;
+  font-weight: 1000; }
+
+.block-note {
+  background-color: #d6eaf8;
+  padding: 7px;
+  margin: 5px 0px 10px 0px;
+  border-radius: 7px; }
 
 code {
   background: #F5F5F5;

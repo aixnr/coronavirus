@@ -37,7 +37,7 @@ If you found anything (error, suggestion, papers, etc.) that you think I should 
 | :---- | :----------
 | Disease agent | Severe acute respiratory syndrome (SARS) coronavirus (CoV) 2, a coronavirus belonging to the betacoronavirus genus (Group 2 CoV). It is an enveloped, positive-sense, single-stranded RNA virus of zoonotic origin.
 | Pandemic status | SARS-CoV-2 is the first coronavirus that reached the pandemic level. Previously, pandemics were mostly caused by influenza A virus (1918, 1957, 1968, and 2009).
-| Treatment availability | Gilead Sciences’ **remdesivir** (adenosine nucleotide analog, interferes with vRNA pol), Abbvie's **lopinavir/ritonavir** (protease inhibitors). Both antiviral regiments were first designed for HIV/AIDS treatment, now being repurposed for SARS-CoV-2 treatment. An initial trial in China on lopinavir/ritonavir found that this regiment did not improve clinical outcomes, see Cao et al. 2020. An unofficial report from China claimed that a new drug developed by Japanese company, **favipiravir** (selective inhibition of vRNA polymerase) was effective against the SARS-CoV-2.
+| Treatment availability | To be added later. Too many clinical trials going on right now.
 | Vaccine availability | See section [Clinical Trials](#clinical-trials)
 | Official pandemic declaration | WHO declared pandemic on March 11th, 2020, 3 months after initial reports in Wuhan. Prior to that, WHO declared public health emergency on 30 Jan 2020.
 | Date 100,000 cases reached | March 6th, 2020.
@@ -89,7 +89,7 @@ Proteolytic processing is required for the S protein to become infectious, resul
 A recent study established an *in vivo* animal model for studying the diseased caused by SARS-CoV-2 infection ([Munster et al. 2020][vir_20], preprint). To establish an animal model, the disease in said animal has to recapitulate the phenotype as observed in human. The authors inoculated a total dose of 2.6x10<sup>6</sup> TCID<sub>50</sub> of SARS-CoV-2 (WA1-2020 isolate) via combination of intratracheal, intranasal, ocular, and oral routes. They detected high viral loads in respiratory samples, but noted some inconsistencies between sampling days and tissues being sampled. The authors conclude that this animal model recapitulates COVID-19 based on their observation of viral replication, shedding, histological features, and serology.
 
 **■ Incubation period**  
-To be added later.
+To be added later, consensus seems to be 5 days before illness onset; include findings by Siwiak et al. (2020, preprint, latent non-infectious period of 1.1 days followed by 4.6 days of presymptomatic infectious period).
 
 **■ Persistence outside host**  
 To be added later.
@@ -126,6 +126,9 @@ Initial report from [Zhao et al. (2020, preprint)][imm_1] indicates that the pla
 
 A study to look at the possibility of re-infection was carried out in non-human primate rhesus macaques ([Bao et al. 2020][imm_6], preprint). In this study, four monkeys were challenged with 1x10<sup>6</sup> TCID<sub>50</sub> SARS-CoV-2 via intratracheal route and re-challenge was done via the same route with the same dose on day 28 after the primary infection. The authors show that in re-challenged animals, no viral replication was detected in tissues, therefore providing the evidence that primary exposure (in the case of infection) to SARS-CoV-2 could protect from subsequent exposure.
 
+**■ Serology testing**  
+To be added later, see Amanat et al (2020, preprint, reagent and diagnostic proposal) and Long et al. (2020, preprint, diagnostic proposal).
+
 **■ ASCs/PBs response**  
 A study suggests the peak antibody-secreting cells (ASCs, also termed plasmablasts, PBs; gated on CD27<sup>+</sup>CD38<sup>+</sup>) on day 8 following symptom onset ([Thevarajan et al. 2020][imm_3]).
 
@@ -161,8 +164,14 @@ As of writing (23 Mar 2020), I found two observations that do not quite agree to
 
 However, another observation that looked at 5,830 of infected individuals in Lombardy demonstrated that the viral loads (nasal swabs) between symptomatic and asymptomatic individuals were not statistically different ([Cereda et al. 2020][path_02], preprint, **Figure 4**).
 
+**■ Markers for poor prognosis**  
+Symptomatic infected individuals could progress into either mild or severe progression. However, the risk factors associated with the severe cases are now fully understood. This question was explored in a study by [Zhou et al. (2020)][path_04] looking at 191 adult patients (>18 y/o, avg. 56 y/o) from two hospitals (Jinyitan Hospital & Wuhan Pulmonary Hospital). About 28% (n = 54) of the patients died. **Table 1** of this study provided numbers on the patients. From the study, 95% patients received antibiotics, suggesting that secondary bacterial infection took place. Most common complications were: sepsis, respiratory failure, ARDS, heart failure, and septic shock. They also looked at the median duration of viral shedding, which was (on average) 20 days from illness onset.
+
 **■ Typical disease progression**  
 To be added later.
+
+**■ Evidence of secondary bacterial infection**  
+As discussed in **Markers for poor prognosis** above, secondary bacterial infection did happen in infected individuals.
 
 **■ Common diagnostic procedure**  
 To be added later.
@@ -192,6 +201,7 @@ If you are qualified and certified medical personnel, please discuss with your a
 [path_01]:https://doi.org/10.1016/S1473-3099(20)30232-2
 [path_02]:https://arxiv.org/abs/2003.09320
 [path_03]:https://doi.org/10.1101/2020.03.16.20036145
+[path_04]:https://doi.org/10.1016/S0140-6736(20)30566-3
 
 ## Epidemiology
 
@@ -209,6 +219,9 @@ To be added later.
 
 **■ How social distancing would help**  
 To be added later.
+
+**■ Impact of asymptomatic carriers on COVID-19 transmissions**  
+To be added later, look at Aguilar & Gutierrez (2020, preprint).
 
 [epi_1]:https://doi.org/10.1016/j.jcv.2018.01.019
 [epi_2]:https://doi.org/10.1128/JCM.00636-10
@@ -277,3 +290,5 @@ To be added later.
 * Dr. Florian Krammer, [with his tweetorial on serology paper his lab recently published on MedRxiv](https://twitter.com/florian_krammer/status/1240432285184405505).
 * Dr. Kristian G. Andersen on [rapid diagnostic tests (RDTs) and serology tests for COVID-19](https://twitter.com/K_G_Andersen/status/1241919845945368577).
 * Dr. Elisabeth Bik on [the study claiming hydroxychloroquine is effective to treat COVID-19](https://twitter.com/MicrobiomDigest/status/1241429544847863808).
+* Prof. Sachin J. Shah on [core groups of papers for clinicians and medical educators](https://twitter.com/sachinjshah/status/1242448994673913856).
+* Dr. Trevor Bedford on [COVID-19 mutations and immunity, should it become seasonal](https://twitter.com/trvrb/status/1242628550563250176).

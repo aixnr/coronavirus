@@ -76,6 +76,20 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | Mar 2020 | Tao et al. | Primary | [High incidence of asymptomatic SARS-CoV-2 infection, Chongqing, China][l_60]
 | Mar 2020 | Duan et al. | Case | [The feasibility of convalescent plasma therapy in severe COVID-19 patients: a pilot study][l_61]
 | Mar 2020 | Milne et al. | Primary | [The Effectiveness of Social Distancing in Mitigating COVID-19 Spread: a modelling analysis][l_62]
+| Mar 2020 | van Doremalen et al. | Primary | [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1][l_63] 
+| Mar 2020 | Zhou et al. | Primary | [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study][l_64]
+| Mar 2020 | Cheng et al. | Primary | [High transmissibility of COVID-19 near symptom onset][l_65]
+| Mar 2020 | Long et al. | Primary | [Antibody responses to SARS-CoV-2 in COVID-19 patients: the perspective application of serological tests in clinical practice][l_66]
+| Mar 2020 | Gautret et al. | Primary | [Hydroxychloroquine and Azithromycin as a treatment of COVID-19: preliminary results of an open-label non-randomized clinical trial][l_67]
+| Mar 2020 | Chen et al. | Primary | [Favipiravir versus Arbidol for COVID-19: A Randomized Clinical Trial][l_68]
+| Mar 2020 | Jeon et al. | Primary | [Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs][l_69]
+| Mar 2020 | Ong et al. | Primary | [COVID-19 coronavirus vaccine design using reverse vaccinology and machine learning][l_70]
+| Mar 2020 | Prachar et al. | Primary | [COVID-19 Vaccine Candidates: Prediction and Validation of 174 SARS-CoV-2 Epitopes][l_71]
+| Mar 2020 | Milewska et al. | Primary | [Replication of SARS-CoV-2 in human respiratory epithelium][l_72]
+| Mar 2020 | Li et al. | Primary | [Emergence of SARS-CoV-2 through Recombination and Strong Purifying Selection][l_73]
+| Mar 2020 | Siwiak et al. | Primary | [From a single host to global spread. The global mobility based modelling of the COVID-19 pandemic implies higher infection and lower detection rates than current estimates][l_74]
+| Mar 2020 | Leung et al. | Primary | [ACE-2 Expression in the Small Airway Epithelia of Smokers and COPD Patients: Implications for COVID-19][l_75]
+| Mar 2020 | Aguilar & Gutierrez | Primary | [Investigating the Impact of Asymptomatic Carriers on COVID-19 Transmission][l_76]
 
 [l_1]:https://doi.org/10.1016/j.cell.2020.02.052
 [l_2]:https://doi.org/10.1016/j.ijantimicag.2020.105924
@@ -117,7 +131,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [l_38]:https://www.biorxiv.org/content/10.1101/2020.03.13.991455v1
 [l_40]:https://science.sciencemag.org/content/early/2020/03/13/science.abb3221
 [l_41]:https://www.nature.com/articles/s41591-020-0820-9
-[l_42]:https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported
+[l_42]:https://doi.org/10.7326/M20-0504
 [l_43]:https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1
 [l_44]:https://www.biorxiv.org/content/10.1101/2020.03.07.982264v2
 [l_45]:https://www.mdpi.com/2076-0817/9/3/186
@@ -138,6 +152,20 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [l_60]:https://doi.org/10.1101/2020.03.16.20037259
 [l_61]:https://doi.org/10.1101/2020.03.16.20036145
 [l_62]:https://doi.org/10.1101/2020.03.20.20040055
+[l_63]:https://doi.org/10.1056/NEJMc2004973
+[l_64]:https://doi.org/10.1016/S0140-6736(20)30566-3
+[l_65]:https://doi.org/10.1101/2020.03.18.20034561
+[l_66]:https://doi.org/10.1101/2020.03.18.20038018
+[l_67]:http://dx.doi.org/10.1016/j.ijantimicag.2020.105949
+[l_68]:https://doi.org/10.1101/2020.03.17.20037432
+[l_69]:https://doi.org/10.1101/2020.03.20.999730
+[l_70]:https://doi.org/10.1101/2020.03.20.000141
+[l_71]:https://doi.org/10.1101/2020.03.20.000794
+[l_72]:https://doi.org/10.1101/2020.03.20.999029
+[l_73]:https://doi.org/10.1101/2020.03.20.000885
+[l_74]:https://doi.org/10.1101/2020.03.21.20040444
+[l_75]:https://doi.org/10.1101/2020.03.18.20038455
+[l_76]:https://doi.org/10.1101/2020.03.18.20037994
 
 ## Newsworthy Stories
 
@@ -199,6 +227,8 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 22 Mar 2020 | NY Times | Rabin | [Lost Sense of Smell May Be Peculiar Clue to Coronavirus Infection][n_55]
 | 21 Mar 2020 | NY Times | Horowitz et al. | [Italy, Pandemic’s New Epicenter, Has Lessons for the World][n_56]
 | 23 Mar 2020 | Scientific American | Sheridan | [Fast, Portable Tests Come Online to Curb Coronavirus Pandemic][n_57]
+| 24 Mar 2020 | WashPo | Achenbach | [The coronavirus isn’t mutating quickly, suggesting a vaccine would offer lasting protection][n_58]
+| 24 Mar 2020 | WashPo | Morris | [Why Germany’s coronavirus death rate is so much lower than other countries’ rates][n_59]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -256,6 +286,8 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_55]:https://www.nytimes.com/2020/03/22/health/coronavirus-symptoms-smell-taste.html
 [n_56]:https://www.nytimes.com/2020/03/21/world/europe/italy-coronavirus-center-lessons.html
 [n_57]:https://www.scientificamerican.com/article/fast-portable-tests-come-online-to-curb-coronavirus-pandemic/
+[n_58]:https://www.washingtonpost.com/health/the-coronavirus-isnt-mutating-quickly-suggesting-a-vaccine-would-offer-lasting-protection/2020/03/24/406522d6-6dfd-11ea-b148-e4ce3fbd85b5_story.html
+[n_59]:https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html
 
 ## Git Repos and Notebooks
 

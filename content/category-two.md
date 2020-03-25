@@ -14,7 +14,6 @@ The main page is what I call as the **Category I** content, listing critical inf
 5. [Clusters and Local Index Cases](#clusters-and-local-index-cases)
 6. [Lockdown and Restriction of Movement](#lockdown-and-restriction-of-movement)
 7. [Keeping the Economy Running](#keeping-the-economy-running)
-8. [Phases of Pandemic Response](#phases-of-pandemic-response)
 
 ## Strained Health Response
 
@@ -151,6 +150,7 @@ Coronavirus is not the *de facto* force that's responsible for the economic rece
 | 19 Mar 2020 | The Times | Charter & Zeffman | [Americans to get $3,000 each as Trump unveils $1trn rescue plan][econ_6] | US
 | 23 Mar 2020 | Vox | Yglesias | [The coming unemployment catastrophe, in one chart][econ_7]
 | 18 Mar 2020 | VOX EU | Baldwin et al. | [Mitigating the COVID Economic Crisis: Act Fast and Do Whatever It Takes][econ_8]
+| 24 Mar 2020 | Bloomberg | Strain | [Trump Would Hurt Economy by Trying to Restart It][econ_9]
 
 [econ_1]:https://www.ft.com/content/be732afe-6526-11ea-a6cd-df28cc3c6a68
 [econ_2]:https://www.theguardian.com/world/2020/mar/16/coronavirus-deals-chinas-economy-a-bigger-blow-than-gfc
@@ -160,11 +160,5 @@ Coronavirus is not the *de facto* force that's responsible for the economic rece
 [econ_6]:https://www.thetimes.co.uk/article/americans-to-get-3-000-each-as-trump-unveils-1trn-rescue-plan-2ll9j0c5k
 [econ_7]:https://www.vox.com/2020/3/21/21188529/initial-unemployment-claims-goldman-sachs
 [econ_8]:https://voxeu.org/content/mitigating-covid-economic-crisis-act-fast-and-do-whatever-it-takes
+[econ_9]:https://www.bloomberg.com/opinion/articles/2020-03-24/coronavirus-trump-would-hurt-economy-by-trying-to-restart-it
 
-## Phases of Pandemic Response
-
-| Phase | Description
-| ----- | :---------
-| I: Containment | HERE_SOMETHING
-| II: Delay | HERE_SOMETHING
-| III: Mitigation | HERE_SOMETHING

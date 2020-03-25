@@ -38,10 +38,7 @@ body {
   color: #999; }
 
 .article-body h2 {
-  margin-top: 50px; 
-  position: sticky; 
-  top: 0; 
-  background: var(--color-bg); }
+  margin-top: 50px; }
 
 .article-body h2::after {
   content: "";
@@ -71,7 +68,7 @@ body {
   margin: 5px 0px 10px 0px;
   border-radius: 7px; }
 
-code {
+p code, ul code {
   background: #F5F5F5;
   padding: 3px;
   border-radius: 3px;

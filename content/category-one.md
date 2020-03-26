@@ -1,6 +1,6 @@
 ---
 title: Category I Information
-last: "2020-03-23T23:00:00-04:00"
+last: "2020-03-25T18:15:00-04:00"
 ---
 
 Let's see what we have here.
@@ -90,6 +90,10 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | Mar 2020 | Siwiak et al. | Primary | [From a single host to global spread. The global mobility based modelling of the COVID-19 pandemic implies higher infection and lower detection rates than current estimates][l_74]
 | Mar 2020 | Leung et al. | Primary | [ACE-2 Expression in the Small Airway Epithelia of Smokers and COPD Patients: Implications for COVID-19][l_75]
 | Mar 2020 | Aguilar & Gutierrez | Primary | [Investigating the Impact of Asymptomatic Carriers on COVID-19 Transmission][l_76]
+| Mar 2020 | Ju et al. | Primary | [Potent human neutralizing antibodies elicited by SARS-CoV-2 infection][l_77]
+| Mar 2020 | Blanco-Melo et al. | Primary | [SARS-CoV-2 launches a unique transcriptional signature from in vitro, ex vivo, and in vivo systems][l_78]
+| Mar 2020 | Bian et al. | Primary | [Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial][l_79]
+| Mar 2020 | Shi et al. | Primary | [COVID-19 infection: the perspectives on immune responses][l_80]
 
 [l_1]:https://doi.org/10.1016/j.cell.2020.02.052
 [l_2]:https://doi.org/10.1016/j.ijantimicag.2020.105924
@@ -166,6 +170,10 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [l_74]:https://doi.org/10.1101/2020.03.21.20040444
 [l_75]:https://doi.org/10.1101/2020.03.18.20038455
 [l_76]:https://doi.org/10.1101/2020.03.18.20037994
+[l_77]:https://doi.org/10.1101/2020.03.21.990770
+[l_78]:https://doi.org/10.1101/2020.03.24.004655
+[l_79]:https://doi.org/10.1101/2020.03.21.20040691
+[l_80]:https://doi.org/10.1038/s41418-020-0530-3
 
 ## Newsworthy Stories
 
@@ -229,6 +237,18 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 23 Mar 2020 | Scientific American | Sheridan | [Fast, Portable Tests Come Online to Curb Coronavirus Pandemic][n_57]
 | 24 Mar 2020 | WashPo | Achenbach | [The coronavirus isn’t mutating quickly, suggesting a vaccine would offer lasting protection][n_58]
 | 24 Mar 2020 | WashPo | Morris | [Why Germany’s coronavirus death rate is so much lower than other countries’ rates][n_59]
+| 25 Mar 2020 | The Atlantic | Yong | [How the Pandemic Will End][n_60]
+| 25 Mar 2020 | WashPo | Cha | [Hospitals consider universal do-not-resuscitate orders for coronavirus patients][n_61]
+| 24 Mar 2020 | Wired | Rogers | [Blood From Covid-19 Survivors May Point the Way to a Cure][n_62]
+| 24 Mar 2020 | FiveThirtyEight | Koerth | [How Coronavirus Tests Actually Work][n_63]
+| 24 Mar 2020 | The Guardian | McCurry & Ingle | [Tokyo Olympics postponed to 2021 due to coronavirus pandemic][n_64]
+| 21 Mar 2020 | ProPublica | Presser | [A Medical Worker Describes Terrifying Lung Failure From COVID-19 — Even in His Young Patients][n_65]
+| 20 Mar 2020 | FiveThirthyEight | Boice | [Infectious Disease Experts Don’t Know How Bad The Coronavirus Is Going To Get, Either][n_66]
+| 23 Mar 2020 | Wired | McKenna | [How ProMED Crowdsourced the Arrival of Covid-19 and SARS][n_67]
+| 21 Mar 2020 | Zeit | Schumann | [Christian Dorsten: "We Have To Bring Down the Number of Cases Now. Otherwise We Won't Be Able To Handle It"][n_68]
+| 23 Mar 2020 | STAT | Brodwin | [Doctors warn an inability to smell could be a symptom of Covid-19 — but caution the evidence is preliminary][n_69]
+| 16 Mar 2020 | NPR | Feng & Cheng | [COVID-19 Has Caused A Shortage Of Face Masks. But They're Surprisingly Hard To Make][n_70]
+| 25 Mar 2020 | Gizmodo | Novak | [Infectious Disease Expert Who Consulted On Contagion Movie Tests Positive For Covid-19][n_71]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -288,6 +308,18 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_57]:https://www.scientificamerican.com/article/fast-portable-tests-come-online-to-curb-coronavirus-pandemic/
 [n_58]:https://www.washingtonpost.com/health/the-coronavirus-isnt-mutating-quickly-suggesting-a-vaccine-would-offer-lasting-protection/2020/03/24/406522d6-6dfd-11ea-b148-e4ce3fbd85b5_story.html
 [n_59]:https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html
+[n_60]:https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/
+[n_61]:https://www.washingtonpost.com/health/2020/03/25/coronavirus-patients-do-not-resucitate/
+[n_62]:https://www.wired.com/story/an-old-source-for-potential-new-covid-19-drugs-blood-serum/
+[n_63]:https://fivethirtyeight.com/features/how-coronavirus-tests-actually-work/
+[n_64]:https://www.theguardian.com/sport/2020/mar/24/tokyo-olympics-to-be-postponed-to-2021-due-to-coronavirus-pandemic
+[n_65]:https://www.propublica.org/article/a-medical-worker-describes--terrifying-lung-failure-from-covid19-even-in-his-young-patients
+[n_66]:https://fivethirtyeight.com/features/infectious-disease-experts-dont-know-how-bad-the-coronavirus-is-going-to-get-either/
+[n_67]:https://www.wired.com/story/how-promed-crowdsourced-the-arrival-of-covid-19-and-sars/
+[n_68]:https://www.zeit.de/wissen/gesundheit/2020-03/christian-drosten-coronavirus-pandemic-germany-virologist-charite
+[n_69]:https://www.statnews.com/2020/03/23/coronavirus-sense-of-smell-anosmia/
+[n_70]:https://www.npr.org/sections/goatsandsoda/2020/03/16/814929294/covid-19-has-caused-a-shortage-of-face-masks-but-theyre-surprisingly-hard-to-mak
+[n_71]:https://paleofuture.gizmodo.com/infectious-disease-expert-who-consulted-on-contagion-mo-1842486170
 
 ## Git Repos and Notebooks
 

@@ -1,6 +1,6 @@
 ---
 title: "Category II Information"
-last: "2020-03-23T23:00:00-04:00"
+last: "2020-03-25T20:00:00-04:00"
 ---
 
 The main page is what I call as the **Category I** content, listing critical information. This page is for specific niche content that would be useful to construct narratives, therefore designated as the **Category II** content. This does not mean that the information here is less useful than **Category I** content.
@@ -148,9 +148,11 @@ Coronavirus is not the *de facto* force that's responsible for the economic rece
 | 16 Mar 2020 | Reuters | Solsvik | [Norwegian Air to cancel 85% of flights and lay off 90% of staff][econ_4] | Norway
 | 14 Mar 2020 | The Economist | -- | [Rethinking sick leave][econ_5] | US
 | 19 Mar 2020 | The Times | Charter & Zeffman | [Americans to get $3,000 each as Trump unveils $1trn rescue plan][econ_6] | US
-| 23 Mar 2020 | Vox | Yglesias | [The coming unemployment catastrophe, in one chart][econ_7]
+| 23 Mar 2020 | Vox | Yglesias | [The coming unemployment catastrophe, in one chart][econ_7] | US
 | 18 Mar 2020 | VOX EU | Baldwin et al. | [Mitigating the COVID Economic Crisis: Act Fast and Do Whatever It Takes][econ_8]
-| 24 Mar 2020 | Bloomberg | Strain | [Trump Would Hurt Economy by Trying to Restart It][econ_9]
+| 24 Mar 2020 | Bloomberg | Strain | [Trump Would Hurt Economy by Trying to Restart It][econ_9] | US
+| 25 Mar 2020 | NY Times | Lipton & Vogel | [Fine Print of Stimulus Bill Contains Special Deals for Industries][econ_10] | US
+| 24 Mar 2020 | TheStar | Idris | [Bank Negara grants six-month grace period for loans][econ_11] | MY
 
 [econ_1]:https://www.ft.com/content/be732afe-6526-11ea-a6cd-df28cc3c6a68
 [econ_2]:https://www.theguardian.com/world/2020/mar/16/coronavirus-deals-chinas-economy-a-bigger-blow-than-gfc
@@ -161,4 +163,5 @@ Coronavirus is not the *de facto* force that's responsible for the economic rece
 [econ_7]:https://www.vox.com/2020/3/21/21188529/initial-unemployment-claims-goldman-sachs
 [econ_8]:https://voxeu.org/content/mitigating-covid-economic-crisis-act-fast-and-do-whatever-it-takes
 [econ_9]:https://www.bloomberg.com/opinion/articles/2020-03-24/coronavirus-trump-would-hurt-economy-by-trying-to-restart-it
-
+[econ_10]:https://www.nytimes.com/2020/03/25/us/politics/virus-fineprint-stimulus-bill.html
+[econ_11]:https://www.thestar.com.my/business/business-news/2020/03/24/bank-negara-grants-automatic-moratorium-on-loans-by-individual-and-small-businesses-for-six-months

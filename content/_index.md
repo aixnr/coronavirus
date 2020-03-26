@@ -1,7 +1,7 @@
 ---
 date: "2020-03-21T20:00:00-04:00"
 title: "SARS-CoV-2/COVID-19"
-last: "2020-03-24T11:37:00-04:00"
+last: "2020-03-25T18:16:00-04:00"
 ---
 
 Welcome to this page, a collection of my notes on the coronavirus disease 2019 (**COVID-19**) and severe acute respiratory syndrome coronavirus 2 (**SARS-CoV-2**). This virus was known by its provisional name 2019 novel coronavirus (2019-nCoV). It is also known as the human coronavirus 2019 (hCoV-19), which is the ID that is now being used on GISAID EpiCoV<sup>TM</sup> database.
@@ -82,6 +82,8 @@ Concerning binding affinity, a recent study claims that the circulating SARS-CoV
 **■ Antagonizing innate immunity**  
 A study by [Kopecky-Bromberg et al. (2006)][vir_7] shows that the SARS-CoV N, Orf3b, and Orf6  proteins can interfere with interferon (IFN) activity. The authors show the mechanisms of interference through inhibition of IFN-β synthesis, inhibition of IRF-3 and NF-kB functions, blocking the ISRE promoter, and blocking the translocation of STAT1. For a more detailed review, see [Fung & Liu (2019)][vir_19], **Figure 8**.
 
+Also, see Blanco-Melo et al (2020, preprint)
+
 **■ Proteolytic processing**  
 Proteolytic processing is required for the S protein to become infectious, resulting in two domains after cleavage: S1 (bulb) and S2 (stalk). Studies suggest that this process happens prior to or during the entry of coronavirus into target host cell ([Matsuyama et al. 2010][vir_17]), in contrast to majority of class I viral fusion proteins that are processed during virus assembly or following release from infected host. A study ([Belouzard et al. 2009][vir_18]) looking at the SARS-CoV suggests that proteolytic processing of SARS-CoV happens at 2 sites: at the boundary of S1 and S2 domains (S1/S2 site) and also within the S2 domain (S2').
 
@@ -89,7 +91,7 @@ Proteolytic processing is required for the S protein to become infectious, resul
 A recent study established an *in vivo* animal model for studying the diseased caused by SARS-CoV-2 infection ([Munster et al. 2020][vir_20], preprint). To establish an animal model, the disease in said animal has to recapitulate the phenotype as observed in human. The authors inoculated a total dose of 2.6x10<sup>6</sup> TCID<sub>50</sub> of SARS-CoV-2 (WA1-2020 isolate) via combination of intratracheal, intranasal, ocular, and oral routes. They detected high viral loads in respiratory samples, but noted some inconsistencies between sampling days and tissues being sampled. The authors conclude that this animal model recapitulates COVID-19 based on their observation of viral replication, shedding, histological features, and serology.
 
 **■ Incubation period**  
-To be added later, consensus seems to be 5 days before illness onset; include findings by Siwiak et al. (2020, preprint, latent non-infectious period of 1.1 days followed by 4.6 days of presymptomatic infectious period).
+To be added later, consensus seems to be 5 days before illness onset; include findings by Siwiak et al. (2020, preprint, latent non-infectious period of 1.1 days followed by 4.6 days of presymptomatic infectious period). Also see Lauer et al. (2020, Annals of Internal Medicine).
 
 **■ Persistence outside host**  
 To be added later.
@@ -133,7 +135,7 @@ To be added later, see Amanat et al (2020, preprint, reagent and diagnostic prop
 A study suggests the peak antibody-secreting cells (ASCs, also termed plasmablasts, PBs; gated on CD27<sup>+</sup>CD38<sup>+</sup>) on day 8 following symptom onset ([Thevarajan et al. 2020][imm_3]).
 
 **■ Antibody cross-reactivity**  
-To be added later.
+To be added later, see Ju et al. (2020, preprint)
 
 **■ Durability of antibody levels**  
 A study from previous SARS-CoV (2003) outbreak provided evidence that the antigen-specific IgG antibodies against the SARS-CoV (ELISA with inactivated preparation of whole-virus lysate) were maintained for an average of 2 years ([Wu et al. 2007][imm_4]). Another study looked at the profile of IgG, IgM, and IgA antibodies againt SARS-CoV (2003) nucleocapsid protein ([Woo et al. 2004][imm_5], **Figure 1**)
@@ -168,7 +170,7 @@ However, another observation that looked at 5,830 of infected individuals in Lom
 Symptomatic infected individuals could progress into either mild or severe progression. However, the risk factors associated with the severe cases are now fully understood. This question was explored in a study by [Zhou et al. (2020)][path_04] looking at 191 adult patients (>18 y/o, avg. 56 y/o) from two hospitals (Jinyitan Hospital & Wuhan Pulmonary Hospital). About 28% (n = 54) of the patients died. **Table 1** of this study provided numbers on the patients. From the study, 95% patients received antibiotics, suggesting that secondary bacterial infection took place. Most common complications were: sepsis, respiratory failure, ARDS, heart failure, and septic shock. They also looked at the median duration of viral shedding, which was (on average) 20 days from illness onset.
 
 **■ Typical disease progression**  
-To be added later.
+To be added later, see Shi et al. (2020, Nature)
 
 **■ Evidence of secondary bacterial infection**  
 As discussed in **Markers for poor prognosis** above, secondary bacterial infection did happen in infected individuals.
@@ -237,6 +239,8 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 | [Nextstrain / ncov][p_5] | Nextstrain portal for the SARS-CoV-2/COVID-19, developed by the Bedford lab.
 | [Worldometers][p_6] | Confirmed Cases and Deaths by Country, Territory, or Conveyance. 
 | [NCBI LitCovid][p_7] | LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.
+| [CoV @ Protocols][p_8] | Coronavirus Method Development Community
+| [FT's Coronavirus tracked][p_9] | The latest figures as the pandemic spreads (free to read)
 
 [p_1]:https://nextstrain.org/#narratives
 [p_2]:https://ourworldindata.org/coronavirus
@@ -245,7 +249,8 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 [p_5]:https://nextstrain.org/ncov
 [p_6]:https://www.worldometers.info/coronavirus/#countries
 [p_7]:https://www.ncbi.nlm.nih.gov/research/coronavirus/
-
+[p_8]:https://www.protocols.io/groups/coronavirus-method-development-community/publications
+[p_9]:https://www.ft.com/coronavirus-latest
 
 ## Clinical Trials
 
@@ -292,3 +297,4 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 * Dr. Elisabeth Bik on [the study claiming hydroxychloroquine is effective to treat COVID-19](https://twitter.com/MicrobiomDigest/status/1241429544847863808).
 * Prof. Sachin J. Shah on [core groups of papers for clinicians and medical educators](https://twitter.com/sachinjshah/status/1242448994673913856).
 * Dr. Trevor Bedford on [COVID-19 mutations and immunity, should it become seasonal](https://twitter.com/trvrb/status/1242628550563250176).
+* Prof. Carl Bergstrom [criticizing Aaron Ginn's article on "Evidence over hysteria"](https://twitter.com/CT_Bergstrom/status/1241522140559503360)

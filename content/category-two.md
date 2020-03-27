@@ -1,6 +1,6 @@
 ---
 title: "Category II Information"
-last: "2020-03-25T20:00:00-04:00"
+last: "2020-03-26T18:55:00-04:00"
 ---
 
 The main page is what I call as the **Category I** content, listing critical information. This page is for specific niche content that would be useful to construct narratives, therefore designated as the **Category II** content. This does not mean that the information here is less useful than **Category I** content.

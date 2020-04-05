@@ -1,6 +1,6 @@
 ---
 title: Category I Information
-last: "2020-03-25T18:15:00-04:00"
+last: "2020-04-05T19:15:00-04:00"
 ---
 
 Let's see what we have here.
@@ -8,6 +8,7 @@ Let's see what we have here.
 1. [Literature](#literature)
 2. [Newsworthy Stories](#newsworthy-stories)
 3. [Git Repos and Notebooks](#git-repos-and-notebooks)
+4. [YouTube Videos](#youtube-videos)
 
 ## Literature
 
@@ -249,6 +250,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 23 Mar 2020 | STAT | Brodwin | [Doctors warn an inability to smell could be a symptom of Covid-19 — but caution the evidence is preliminary][n_69]
 | 16 Mar 2020 | NPR | Feng & Cheng | [COVID-19 Has Caused A Shortage Of Face Masks. But They're Surprisingly Hard To Make][n_70]
 | 25 Mar 2020 | Gizmodo | Novak | [Infectious Disease Expert Who Consulted On Contagion Movie Tests Positive For Covid-19][n_71]
+| 25 Mar 2020 | Hackaday | Baddeley | [Ventilators 101: What They Do And How They Work][n_72]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -320,6 +322,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_69]:https://www.statnews.com/2020/03/23/coronavirus-sense-of-smell-anosmia/
 [n_70]:https://www.npr.org/sections/goatsandsoda/2020/03/16/814929294/covid-19-has-caused-a-shortage-of-face-masks-but-theyre-surprisingly-hard-to-mak
 [n_71]:https://paleofuture.gizmodo.com/infectious-disease-expert-who-consulted-on-contagion-mo-1842486170
+[n_72]:https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/
 
 ## Git Repos and Notebooks
 
@@ -328,3 +331,16 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 * Bedford Lab's [nextstrain/ncov](https://github.com/nextstrain/ncov).
 * `AaronWard/covid-19-analysis`, a Python-based script for generating reports on COVID-19.
 * `CSSEGISandData /COVID-19`, the data repository operated by the John Hopkins University.
+
+## YouTube Videos
+
+| Date | Channel | Title
+| ---- | :------ | :----
+| 04 Apr 2020 | Real Engineering | [A Guide To Designing Low-Cost Ventilators for COVID-19][yt_1]
+| 30 Mar 2020 | Medlife Crisis | [Doctor Shares The Biggest Lie About COVID-19][yt_2]
+| 03 Apr 2015 | TED | [The next outbreak? We’re not ready][yt_3]
+
+[yt_1]:https://www.youtube.com/watch?v=7vLPefHYWpY
+[yt_2]:https://www.youtube.com/watch?v=0ts8X3HDtPE
+[yt_3]:https://www.youtube.com/watch?v=6Af6b_wyiwI
+

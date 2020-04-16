@@ -1,7 +1,7 @@
 ---
 date: "2020-03-21T20:00:00-04:00"
 title: "SARS-CoV-2/COVID-19"
-last: "2020-03-26T18:55:00-04:00"
+last: "2020-04-14T16:25:00-04:00"
 ---
 
 Welcome to this page, a collection of my notes on the coronavirus disease 2019 (**COVID-19**) and severe acute respiratory syndrome coronavirus 2 (**SARS-CoV-2**). This virus was known by its provisional name 2019 novel coronavirus (2019-nCoV). It is also known as the human coronavirus 2019 (hCoV-19), which is the ID that is now being used on GISAID EpiCoV<sup>TM</sup> database.
@@ -241,6 +241,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 | [NCBI LitCovid][p_7] | LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.
 | [CoV @ Protocols][p_8] | Coronavirus Method Development Community
 | [FT's Coronavirus tracked][p_9] | The latest figures as the pandemic spreads (free to read)
+| [COVID-19 Preprint Index][p_10] | This portal aims to provide an interface for researchers, journalists, and other users to quickly search and navigate the constantly evolving and overwhelming corpus of scientific literature pertaining to COVID-19 pandemic.
 
 [p_1]:https://nextstrain.org/#narratives
 [p_2]:https://ourworldindata.org/coronavirus
@@ -251,6 +252,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 [p_7]:https://www.ncbi.nlm.nih.gov/research/coronavirus/
 [p_8]:https://www.protocols.io/groups/coronavirus-method-development-community/publications
 [p_9]:https://www.ft.com/coronavirus-latest
+[p_10]:https://covid19preprints.app/
 
 ## Clinical Trials
 
@@ -298,3 +300,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 * Prof. Sachin J. Shah on [core groups of papers for clinicians and medical educators](https://twitter.com/sachinjshah/status/1242448994673913856).
 * Dr. Trevor Bedford on [COVID-19 mutations and immunity, should it become seasonal](https://twitter.com/trvrb/status/1242628550563250176).
 * Prof. Carl Bergstrom [criticizing Aaron Ginn's article on "Evidence over hysteria"](https://twitter.com/CT_Bergstrom/status/1241522140559503360)
+* Prof. Carl Bergstrom [on plotting epidemic curves and normalization by population size and why people should be careful when normalizing data to population size](https://twitter.com/CT_Bergstrom/status/1249930293928030209).
+* Prof. Andrew Rambaut [criticizing PNAS paper on phylogenetic network analysis](https://twitter.com/arambaut/status/1248387395201847296).
+* Dr. Brennan Spiegel [on Bayes Theorem to understand when a negative test should be treated much more carefully](https://twitter.com/BrennanSpiegel/status/1249440134375718912).
+

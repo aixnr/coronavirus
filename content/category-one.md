@@ -1,6 +1,6 @@
 ---
 title: Category I Information
-last: "2020-04-05T19:15:00-04:00"
+last: "2020-04-14T16:30:00-04:00"
 ---
 
 Let's see what we have here.
@@ -95,6 +95,12 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | Mar 2020 | Blanco-Melo et al. | Primary | [SARS-CoV-2 launches a unique transcriptional signature from in vitro, ex vivo, and in vivo systems][l_78]
 | Mar 2020 | Bian et al. | Primary | [Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial][l_79]
 | Mar 2020 | Shi et al. | Primary | [COVID-19 infection: the perspectives on immune responses][l_80]
+| Mar 2020 | Wölfel et al. | Primary | [Virological assessment of hospitalized patients with COVID-2019][l_81]
+| Apr 2020 | Wang et al. | Primary | [SARS-CoV-2 infects T lymphocytes through its spike protein-mediated membrane fusion][l_82]
+| Apr 2020 | Cossarizza et al. | Primary | [Handling and Processing of Blood Specimens from Patients with COVID‐19 for Safe Studies on Cell Phenotype and Cytokine Storm][l_83]
+| Apr 2020 | Sanders et al. | Review | [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)][l_84]
+| Apr 2020 | Kissler et al. | Primary | [Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period][l_85]
+| Apr 2020 | Le et al. | Review | [The COVID-19 vaccine development landscape][l_86]
 
 [l_1]:https://doi.org/10.1016/j.cell.2020.02.052
 [l_2]:https://doi.org/10.1016/j.ijantimicag.2020.105924
@@ -175,6 +181,12 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [l_78]:https://doi.org/10.1101/2020.03.24.004655
 [l_79]:https://doi.org/10.1101/2020.03.21.20040691
 [l_80]:https://doi.org/10.1038/s41418-020-0530-3
+[l_81]:https://doi.org/10.1038/s41586-020-2196-x
+[l_82]:https://doi.org/10.1038/s41423-020-0424-9
+[l_83]:https://doi.org/10.1002/cyto.a.24009
+[l_84]:https://doi.org/10.1001/jama.2020.6019
+[l_85]:https://doi.org/10.1126/science.abb5793
+[l_86]:https://doi.org/10.1038/d41573-020-00073-5
 
 ## Newsworthy Stories
 
@@ -251,6 +263,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 16 Mar 2020 | NPR | Feng & Cheng | [COVID-19 Has Caused A Shortage Of Face Masks. But They're Surprisingly Hard To Make][n_70]
 | 25 Mar 2020 | Gizmodo | Novak | [Infectious Disease Expert Who Consulted On Contagion Movie Tests Positive For Covid-19][n_71]
 | 25 Mar 2020 | Hackaday | Baddeley | [Ventilators 101: What They Do And How They Work][n_72]
+| 03 Apr 2020 | NPR | Greenfieldboyce | [Scientists Probe How Coronavirus Might Travel Through The Air][n_73]
+| 08 Apr 2020 | Science | Servick | [For survivors of severe COVID-19, beating the virus is just the beginning][n_74]
+| 06 Apr 2020 | Bloomberg | Casadevall & Pirofski | [It’s Still Hard to Predict Who Will Die From Covid-19][n_75]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -323,6 +338,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_70]:https://www.npr.org/sections/goatsandsoda/2020/03/16/814929294/covid-19-has-caused-a-shortage-of-face-masks-but-theyre-surprisingly-hard-to-mak
 [n_71]:https://paleofuture.gizmodo.com/infectious-disease-expert-who-consulted-on-contagion-mo-1842486170
 [n_72]:https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/
+[n_73]:https://www.npr.org/sections/goatsandsoda/2020/04/03/825639323/scientists-probe-how-coronavirus-might-travel-through-the-air
+[n_74]:https://www.sciencemag.org/news/2020/04/survivors-severe-covid-19-beating-virus-just-beginning
+[n_75]:https://www.bloomberg.com/opinion/articles/2020-04-06/it-s-still-hard-to-predict-who-will-die-from-covid-19
 
 ## Git Repos and Notebooks
 
@@ -331,6 +349,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 * Bedford Lab's [nextstrain/ncov](https://github.com/nextstrain/ncov).
 * `AaronWard/covid-19-analysis`, a Python-based script for generating reports on COVID-19.
 * `CSSEGISandData /COVID-19`, the data repository operated by the John Hopkins University.
+* `tylermorganwall/coronaobj`, a single-function R package to generate customized, scientifically accurate 3D models of SARS-CoV-2.
 
 ## YouTube Videos
 

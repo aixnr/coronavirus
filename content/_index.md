@@ -1,7 +1,7 @@
 ---
 date: "2020-03-21T20:00:00-04:00"
 title: "SARS-CoV-2/COVID-19"
-last: "2020-04-14T16:25:00-04:00"
+last: "2020-04-19T22:30:00-04:00"
 ---
 
 Welcome to this page, a collection of my notes on the coronavirus disease 2019 (**COVID-19**) and severe acute respiratory syndrome coronavirus 2 (**SARS-CoV-2**). This virus was known by its provisional name 2019 novel coronavirus (2019-nCoV). It is also known as the human coronavirus 2019 (hCoV-19), which is the ID that is now being used on GISAID EpiCoV<sup>TM</sup> database.
@@ -27,9 +27,12 @@ If you found anything (error, suggestion, papers, etc.) that you think I should 
 4. [Pathology, Diagnostics, and Treatments](#pathology-diagnostics-and-treatments)
 5. [Epidemiology](#epidemiology)
 6. [Portals](#portals)
-7. [Clinical Trials](#clinical-trials)
-8. [Reagents](#reagents)
-9. [Twitter Conversations](#twitter-conversations)
+7. [Twitter Conversations](#twitter-conversations)
+
+{{<block-note>}}
+**Update on 19 Apr 2020**:  
+It is getting a little challenging to track/read/analyze publications, so as a stopgap measure I am dumping my bookmarks into a Google Sheet. Please visit this link: [Aizan's Google Sheet on Coronavirus](https://docs.google.com/spreadsheets/d/1AiUjJ-oVRGwT5bYEk-GKbssStThnAwBZdb3c_wQC3ms/). Whenever the stars aligned perfectly well, I would transfer notes from the spreadsheet to page. This is not much but it is an honest work!
+{{</block-note>}}
 
 ## Key Facts
 
@@ -242,6 +245,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 | [CoV @ Protocols][p_8] | Coronavirus Method Development Community
 | [FT's Coronavirus tracked][p_9] | The latest figures as the pandemic spreads (free to read)
 | [COVID-19 Preprint Index][p_10] | This portal aims to provide an interface for researchers, journalists, and other users to quickly search and navigate the constantly evolving and overwhelming corpus of scientific literature pertaining to COVID-19 pandemic.
+| [BioRender Templates][p_11] | They have good templates on COVID-19.
 
 [p_1]:https://nextstrain.org/#narratives
 [p_2]:https://ourworldindata.org/coronavirus
@@ -253,36 +257,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 [p_8]:https://www.protocols.io/groups/coronavirus-method-development-community/publications
 [p_9]:https://www.ft.com/coronavirus-latest
 [p_10]:https://covid19preprints.app/
-
-## Clinical Trials
-
-| Type | Location | Sponsor | Intervention/Treatment | Study Identifier
-| ----- | -------- | ------- | ---------------------- | ----------------
-| Interventional | Washington, USA  | NIAID | mRNA-based vaccine of SARS-CoV-2 (2019-nCoV) spike protein, intramuscular route | [NCT04283461][sid_1]
-| Observational | Shanghai, China | Shanghai Public Health Clinical Center | SARS-CoV-2 inactivated convalescent plasma | [NCT04292340][sid_2]
-| Interventional | Hong Kong | The University of Hong Kong | RCT on lopinavir/ritonavir, ribavirin, and IFN-1β against 2019n-CoV infection | [NCT04276688][sid_3]
-| Interventional | United States (multi-center trial) | NIAID | RCT on remdesivir; a single diastereomer monophosphoramidate prodrug designed for the intracellular delivery of a modified adenine nucleoside analog GS-441524 | [NCT04280705][sid_4]
-
-[sid_1]:https://clinicaltrials.gov/ct2/show/NCT04283461
-[sid_2]:https://clinicaltrials.gov/ct2/show/NCT04292340
-[sid_3]:https://clinicaltrials.gov/ct2/show/NCT04276688
-[sid_4]:https://clinicaltrials.gov/ct2/show/NCT04280705
-
-
-## Reagents
-
-| Type | Vendor | Item | BSL | Cat ID 
-| ---- | ------ | ---- | --- | -----
-| Cell line | ATCC | VERO clone E6 grivet kidney epithelial | 1 | [CRL-1586][r_2]
-| Protein Ag | The Native Antigen Company | SARS-CoV-2 spike glycoprotein (S1), HEK293 | 1 | [REC31806-100-HRP][r_3]
-| Protein Ag | The Native Antigen Company | SARS-CoV-2 spike glycoprotein (S2), HEK293 | 1 | [REC31807-100-HRP][r_4]
-| Kit | Sino Biological | SARS-CoV-2 antigen detection kit | 1 | [SARS-CoV-2][r_5]
-
-[r_1]:https://www.atcc.org/products/all/CRL-4051.aspx
-[r_2]:https://www.atcc.org/Products/All/CRL-1586.aspx
-[r_3]:https://thenativeantigencompany.com/products/sars-cov-2-spike-glycoprotein-s1-sheep-fc-tag-hek293/
-[r_4]:https://thenativeantigencompany.com/products/sars-cov-2-spike-glycoprotein-s2-sheep-fc-tag-hek293/
-[r_5]:https://www.sinobiological.com/sars-cov-2-antigen-detection-assay.html
+[p_11]:https://app.biorender.com/biorender-templates/figures
 
 ## Twitter Conversations
 

@@ -1,6 +1,6 @@
 ---
 title: Category I Information
-last: "2020-04-14T16:30:00-04:00"
+last: "2020-04-30T16:30:00-04:00"
 ---
 
 Let's see what we have here.
@@ -266,6 +266,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 03 Apr 2020 | NPR | Greenfieldboyce | [Scientists Probe How Coronavirus Might Travel Through The Air][n_73]
 | 08 Apr 2020 | Science | Servick | [For survivors of severe COVID-19, beating the virus is just the beginning][n_74]
 | 06 Apr 2020 | Bloomberg | Casadevall & Pirofski | [It’s Still Hard to Predict Who Will Die From Covid-19][n_75]
+| 29 Apr 2020 | The Atlantic | Ed Yong | [Why the Coronavirus Is So Confusing][n_76]
+| 16 Apr 2020 | -- | Kieran Healy | [Upset Plots][n_77]
+| 29 Apr 2020 | Quanta Magazine | Tara Smith | [What Other Coronaviruses Tell Us About SARS-CoV-2][n_78]
 
 [n_1]:https://www.vox.com/2020/2/20/21143785/coronavirus-covid-19-spread-transmission-how
 [n_2]:https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html
@@ -341,6 +344,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 [n_73]:https://www.npr.org/sections/goatsandsoda/2020/04/03/825639323/scientists-probe-how-coronavirus-might-travel-through-the-air
 [n_74]:https://www.sciencemag.org/news/2020/04/survivors-severe-covid-19-beating-virus-just-beginning
 [n_75]:https://www.bloomberg.com/opinion/articles/2020-04-06/it-s-still-hard-to-predict-who-will-die-from-covid-19
+[n_76]:https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/
+[n_77]:https://kieranhealy.org/blog/archives/2020/04/16/upset-plots/
+[n_78]:https://www.quantamagazine.org/what-can-other-coronaviruses-tell-us-about-sars-cov-2-20200429/
 
 ## Git Repos and Notebooks
 
@@ -350,6 +356,7 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 * `AaronWard/covid-19-analysis`, a Python-based script for generating reports on COVID-19.
 * `CSSEGISandData /COVID-19`, the data repository operated by the John Hopkins University.
 * `tylermorganwall/coronaobj`, a single-function R package to generate customized, scientifically accurate 3D models of SARS-CoV-2.
+* `kjhealy/covdata`, COVID-related data from a variety of sources, packaged for use in R. See [this page on Kieran Healy's website](https://kjhealy.github.io/covdata/).
 
 ## YouTube Videos
 
@@ -358,8 +365,9 @@ Papers are categorized into 4 classes: **Primary** for paper that reports novel 
 | 04 Apr 2020 | Real Engineering | [A Guide To Designing Low-Cost Ventilators for COVID-19][yt_1]
 | 30 Mar 2020 | Medlife Crisis | [Doctor Shares The Biggest Lie About COVID-19][yt_2]
 | 03 Apr 2015 | TED | [The next outbreak? We’re not ready][yt_3]
+| 18 Apr 2020 | Real Science | [The Vaccine to End the Pandemic?][yt_4]
 
 [yt_1]:https://www.youtube.com/watch?v=7vLPefHYWpY
 [yt_2]:https://www.youtube.com/watch?v=0ts8X3HDtPE
 [yt_3]:https://www.youtube.com/watch?v=6Af6b_wyiwI
-
+[yt_4]:https://www.youtube.com/watch?v=S1l6BchEoZM

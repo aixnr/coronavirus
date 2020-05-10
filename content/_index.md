@@ -246,6 +246,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 | [FT's Coronavirus tracked][p_9] | The latest figures as the pandemic spreads (free to read)
 | [COVID-19 Preprint Index][p_10] | This portal aims to provide an interface for researchers, journalists, and other users to quickly search and navigate the constantly evolving and overwhelming corpus of scientific literature pertaining to COVID-19 pandemic.
 | [BioRender Templates][p_11] | They have good templates on COVID-19.
+| [COVID-19 Vaccine & Therapeutics Tracker][p_12] | See the latest updates for vaccine and therapeutic drug developments for COVID-19. Check back for regular updates!
 
 [p_1]:https://nextstrain.org/#narratives
 [p_2]:https://ourworldindata.org/coronavirus
@@ -258,6 +259,7 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 [p_9]:https://www.ft.com/coronavirus-latest
 [p_10]:https://covid19preprints.app/
 [p_11]:https://app.biorender.com/biorender-templates/figures
+[p_12]:https://biorender.com/covid-vaccine-tracker
 
 ## Twitter Conversations
 
@@ -278,4 +280,4 @@ To be added later, look at Aguilar & Gutierrez (2020, preprint).
 * Prof. Carl Bergstrom [on plotting epidemic curves and normalization by population size and why people should be careful when normalizing data to population size](https://twitter.com/CT_Bergstrom/status/1249930293928030209).
 * Prof. Andrew Rambaut [criticizing PNAS paper on phylogenetic network analysis](https://twitter.com/arambaut/status/1248387395201847296).
 * Dr. Brennan Spiegel [on Bayes Theorem to understand when a negative test should be treated much more carefully](https://twitter.com/BrennanSpiegel/status/1249440134375718912).
-
+* Prof. Francois Balloux says that [up until now SARS-CoV-2 is clonal and invariant, any attempt to classify these mutations as distinct lineages is not immediately (functionally) meaningful](https://twitter.com/BallouxFrancois/status/1259023681549934593).
